@@ -19,7 +19,7 @@ The platform is organized into a modular monorepo structure:
 
 ### Doctor Dashboard
 
-![Doctor Dashboard](./doctor-dashboard.png)
+![Doctor Dashboard](./image.png)
 
 ### Admin Dashboard
 
@@ -27,7 +27,7 @@ The platform is organized into a modular monorepo structure:
 
 ### Video Walkthrough
 
-[Watch the Pulse-Mate Demonstration](./demo-video.mov)
+[Watch the Pulse-Mate Demonstration](./demo-video.mp4)
 
 ---
 
