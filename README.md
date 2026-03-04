@@ -11,6 +11,24 @@ The platform is organized into a modular monorepo structure:
 - `doctor-dashboard/`: React (Vite) frontend for doctors to manage patients and consults.
 - `admin-dashboard/`: React (Vite) frontend for platform administrators.
 
+## 📸 Dashboards
+
+### Patient Dashboard
+
+![Patient Dashboard](./patient-dashboard.png)
+
+### Doctor Dashboard
+
+![Doctor Dashboard](./doctor-dashboard.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](./admin-dashboard.png)
+
+### Video Walkthrough
+
+[Watch the Pulse-Mate Demonstration](./demo-video.mov)
+
 ---
 
 ## 🚀 Local Development Setup
